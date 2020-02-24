@@ -766,7 +766,7 @@ CREATE TABLE PossibleCommandsInStationType( -- Bygger upp Choices med funktional
 	INSERT INTO TypeIsMadeInStationType(ProductType, StationType) VALUES (2,1);
 	INSERT INTO TypeIsMadeInStationType(ProductType, StationType) VALUES (3,3);
 	INSERT INTO TypeIsMadeInStationType(ProductType, StationType) VALUES (4,3);
-	INSERT INTO TypeIsMadeInStationType(ProductType, StationType) VALUES (5,5);
+	INSERT INTO TypeIsMadeInStationType(ProductType, StationT ype) VALUES (5,5);
 	INSERT INTO TypeIsMadeInStationType(ProductType, StationType) VALUES (6,5);
 --Ingredienser
 	SET IDENTITY_INSERT Ingredients ON
